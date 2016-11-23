@@ -1,0 +1,23 @@
+{
+	"name": "putaoCloud/php-sdk",
+	"type": "library",
+	"description": "Putao Cloud Storage SDK for PHP",
+	"keywords": ["putao","storage", "sdk", "cloud"],
+	"homepage": "http://www.putao.com/",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Putao",
+			"email": "zhudejiang@putao.com",
+			"homepage": "http://www.putao.com"
+		}
+	],
+	"require": {
+		"php": ">=5.6.24"
+	},
+	"require-dev": {
+	},
+	"autoload": {
+		"psr-4": {"PutaoCloud\\": "PutaoCloud/src/"}
+	}
+}
