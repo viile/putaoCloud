@@ -1,5 +1,6 @@
 <?php
-namespace PutaoCloud\CloudStorage;
+namespace PutaoCloud\Storage;
+
 use PutaoCloud;
 
 class CloudStorage

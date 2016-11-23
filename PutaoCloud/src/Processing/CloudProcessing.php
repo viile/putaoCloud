@@ -1,6 +1,6 @@
 <?php
+namespace PutaoCloud\Processing;
 
-namespace PutaoCloud\CloudProcessing;
 use PutaoCloud;
 
 class CloudProcessing
